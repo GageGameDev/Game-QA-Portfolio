@@ -18,8 +18,8 @@ This repository showcases my experience practicing software quality assurance by
 
 - MLB The Show 26
 - Grand Theft Auto V Online
--last of us part 1
--far cry 3
+- last of us part 1
+- far cry 3
 
 More games will be added over time.
 
