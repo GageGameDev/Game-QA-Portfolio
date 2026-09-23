@@ -20,6 +20,9 @@ This repository showcases my experience practicing software quality assurance by
 - Grand Theft Auto V Online
 - last of us part 1
 - far cry 3
+- maneater
+- madden 26
+
 
 More games will be added over time.
 
