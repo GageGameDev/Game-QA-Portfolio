@@ -43,6 +43,8 @@ Evidence
 - Screenshot captured showing the wooden structure obstructing the television.
 - Screenshot to be added to this report.
 
+![Super Suction TV obstruction](Luigis-Mansion-3-Super-Suction-TV-Obstruction.jpg)
+
 QA Notes
 
 The successful workaround suggests a possible environmental object-state or loading issue. The exact cause has not been confirmed.
