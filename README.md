@@ -57,3 +57,19 @@ Each report includes:
 - 🖥️ Future Software / Gameplay Developer
 
 Thanks for checking out my portfolio!
+
+
+## Browse My QA Reports
+
+### PlayStation 5
+- [MLB The Show 26](PS5/MLB-The-Show-26/Bugs)
+- [Far Cry 3](PS5/Far-Cry-3/Bugs)
+- [The Last of Us Part I](PS5/The-Last-of-Us-Part-1/Bugs)
+
+### Nintendo Switch
+- [Luigi's Mansion 3](Nintendo-Switch/Luigis-Mansion-3)
+
+### Mobile
+- [Pokerrr 2](Mobile/Pokerrr2/Bugs)
+
+More game testing reports will be added as I continue developing my QA skills.
