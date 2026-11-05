@@ -16,15 +16,23 @@ This repository showcases my experience practicing software quality assurance by
 
 ## Current Games
 
+PlayStation 5 (PS5)
+
 - MLB The Show 26
 - Grand Theft Auto V Online
-- last of us part 1
-- far cry 3
-- maneater
-- madden 26
+- The Last of Us Part I
+- Far Cry 3
+- Maneater
+- Madden NFL 26
 
+Nintendo Switch
 
-More games will be added over time.
+- Luigi's Mansion 3
+
+Additional games and bug reports will be added as testing continues.
+  
+  
+
 
 ## Bug Report Format
 
