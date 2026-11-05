@@ -1,9 +1,13 @@
 MLB The Show 26 — QA Test Execution Tracker
 
 Game: MLB The Show 26
+
 Platform: PlayStation 5
+
 Tester: Gage Johnson
+
 Project: Game QA Portfolio
+
 Testing Focus: Functional, Visual, and Regression Testing
 
 ---
@@ -14,29 +18,35 @@ This document tracks the execution status and results of structured QA test case
 
 Test cases are documented before execution, and results are updated based on actual gameplay observations.
 
-Current Testing Progress
+### Current Testing Progress
 
-Metric| Total
-Total Test Cases| 2
-Passed| 0
-Failed| 0
-Blocked| 0
-Not Run| 2
+| Metric | Total |
+|---|---:|
+| Total Test Cases | 3 |
+| Passed | 0 |
+| Failed | 0 |
+| Blocked | 0 |
+| Not Run | 3 |
 
-Overall Status: Testing Not Started
+**Overall Status:** Testing Not Started
 
 ---
 
-Test Case Tracker
+## Test Case Tracker
 
-Test ID| Test Case| Priority| Status| Last Tested
-TC-001| Co-op Rating and Reward Verification| High| Not Run| Pending
-TC-002| Sliding Mitt Equipment and Animation Verification| Medium| Not Run| Pending
+| Test ID | Test Case | Priority | Status | Last Tested |
+|---|---|---|---|---|
+| TC-001 | Co-op Rating and Reward Verification | High | Not Run | Pending |
+| TC-002 | Sliding Mitt Equipment and Animation Verification | Medium | Not Run | Pending |
+| TC-003 | Strike Count Display Regression Test | High | Not Run | Pending |
 
-Test Case Documents
+### Test Case Documents
 
-- "TC-001 — Co-op Rating and Reward Verification" (TC-001-Coop-Rating-Rewards.md)
-- "TC-002 — Sliding Mitt Equipment and Animation Verification" (TC-002-Sliding-Mitt-Visual.md)
+- [TC-001 — Co-op Rating and Reward Verification](TC-001-Coop-Rating-Rewards.md)
+- [TC-002 — Sliding Mitt Equipment and Animation Verification](TC-002-Sliding-Mitt-Visual.md)
+- [TC-003 — Strike Count Display Regression Test](TC-003-Strike-Count-Regression.md)
+
+---
 
 ---
 
@@ -59,9 +69,13 @@ Test Execution History
 TC-001 — Co-op Rating and Reward Verification
 
 Execution Date: Pending
+
 Game Version: Pending
+
 Test Result: Not Run
+
 Evidence: Not Available
+
 Related Bug: Bug #001 — Co-op Rating Mismatch
 
 Notes: Awaiting structured test execution.
@@ -69,12 +83,30 @@ Notes: Awaiting structured test execution.
 TC-002 — Sliding Mitt Equipment and Animation Verification
 
 Execution Date: Pending
+
 Game Version: Pending
+
 Test Result: Not Run
+
 Evidence: Not Available
+
 Related Bug: Bug #003 — Sliding Mitt Appears on Wrong Hand
 
 Notes: Awaiting structured test execution.
+
+TC-003 — Strike Count Display Regression Test
+
+Execution Date: Pending
+
+Game Version: Pending
+
+Test Result: Not Run
+
+Evidence: Not Available
+
+Related Bug: Bug #004 — Strike Not Counted Correctly
+
+Notes: Awaiting regression testing after a game update.
 
 ---
 
@@ -107,5 +139,7 @@ Test documentation will continue to expand as additional features, bugs, and reg
 ---
 
 Maintained by: Gage Johnson
+
 Education: Southern New Hampshire University
+
 Degree: B.S. Game Design & Development (In Progress)
