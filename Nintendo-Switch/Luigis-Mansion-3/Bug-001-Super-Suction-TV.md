@@ -1,11 +1,17 @@
 Bug Report 001 — Super Suction TV Obstruction
 
-Game: Luigi's Mansion 3
-Platform: Nintendo Switch
-Location: Floor 4 — The Great Stage, Auditorium
-Category: Environmental / Object Interaction
-Severity: Medium
-Status: Workaround Confirmed — Further Testing Needed
+**Game:** Luigi's Mansion 3
+
+**Platform:** Nintendo Switch
+
+**Location:** 4F — The Great Stage, Auditorium
+
+**Category:** Environmental / Object Interaction
+
+**Severity:** Medium
+
+**Status:** Workaround Confirmed — Further Testing Needed
+
 
 Bug Description
 
